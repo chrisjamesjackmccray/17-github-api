@@ -4,21 +4,22 @@ body {
 .head {
   width: 1440px;
   height: 50px;
-  background-color: lightgray; }
+  background-color: #F5F5F5; }
   .head .headsearch {
-    margin: 0 0 0 400px; }
+    margin: 0 0 0 240px;
+    width: 200px; }
 
 .main {
   width: 1025px;
   height: 800px;
   margin: 0 auto;
-  background-color: gray; }
+  background-color: none; }
 
 .leftbox {
   width: 250px;
   height: 550px;
   margin: 20px 0 0 0;
-  background-color: lightgray;
+  background-color: none;
   float: left; }
   .leftbox img {
     width: 250px;
@@ -65,33 +66,34 @@ body {
   height: 550px;
   float: right;
   margin: 20px 0 0 0;
-  background-color: black; }
+  background-color: none; }
   .rightmain .topmain {
     width: 750px;
     height: 30px;
     float: right;
-    background-color: lightgray; }
+    background-color: none; }
   .rightmain .topmainunder {
     width: 750px;
     height: 50px;
     float: right;
-    background-color: red; }
+    background-color: none; }
 
 .topleft {
   margin: 40px 0 0 0; }
 
 .upperp {
-  margin: -20px 0 0 550px; }
+  margin: -20px 0 0 450px; }
 
 .upperptwo {
-  margin: -18px 0 0 650px; }
+  margin: -18px 0 0 540px; }
 
 .upperpthree {
-  margin: -18px 0 0 710px; }
+  margin: -18px 0 0 595px; }
 
-.fa fa-modx {
-  position: absolute;
-  left: 200px; }
+.sign {
+  width: 10px;
+  height: 10px;
+  margin: 0 0 0 210px; }
 
 body {
   margin: 0 0 0 0; }
@@ -99,21 +101,22 @@ body {
 .head {
   width: 1440px;
   height: 50px;
-  background-color: lightgray; }
+  background-color: #F5F5F5; }
   .head .headsearch {
-    margin: 0 0 0 400px; }
+    margin: 0 0 0 240px;
+    width: 200px; }
 
 .main {
   width: 1025px;
   height: 800px;
   margin: 0 auto;
-  background-color: gray; }
+  background-color: none; }
 
 .leftbox {
   width: 250px;
   height: 550px;
   margin: 20px 0 0 0;
-  background-color: lightgray;
+  background-color: none;
   float: left; }
   .leftbox img {
     width: 250px;
@@ -160,30 +163,31 @@ body {
   height: 550px;
   float: right;
   margin: 20px 0 0 0;
-  background-color: black; }
+  background-color: none; }
   .rightmain .topmain {
     width: 750px;
     height: 30px;
     float: right;
-    background-color: lightgray; }
+    background-color: none; }
   .rightmain .topmainunder {
     width: 750px;
     height: 50px;
     float: right;
-    background-color: red; }
+    background-color: none; }
 
 .topleft {
   margin: 40px 0 0 0; }
 
 .upperp {
-  margin: -20px 0 0 550px; }
+  margin: -20px 0 0 450px; }
 
 .upperptwo {
-  margin: -18px 0 0 650px; }
+  margin: -18px 0 0 540px; }
 
 .upperpthree {
-  margin: -18px 0 0 710px; }
+  margin: -18px 0 0 595px; }
 
-.fa fa-modx {
-  position: absolute;
-  left: 200px; }
+.sign {
+  width: 10px;
+  height: 10px;
+  margin: 0 0 0 210px; }
