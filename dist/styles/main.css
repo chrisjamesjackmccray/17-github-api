@@ -39,21 +39,24 @@ body {
     color: black; }
   .leftbox .four {
     color: black; }
-  .leftbox .sixteen {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    float: left; }
-  .leftbox .nineteen {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    float: left; }
-  .leftbox .eight {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    float: left; }
+  .leftbox .left {
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    float: left;
+    margin: -15px 0 0 20px; }
+  .leftbox .middle {
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    float: left;
+    margin: -15px 0 0 20px; }
+  .leftbox .right {
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    float: left;
+    margin: -15px 0 0 20px; }
 
 body {
   margin: 0 0 0 0; }
@@ -96,18 +99,21 @@ body {
     color: black; }
   .leftbox .four {
     color: black; }
-  .leftbox .sixteen {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    float: left; }
-  .leftbox .nineteen {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    float: left; }
-  .leftbox .eight {
-    width: 100px;
-    height: 100px;
-    background-color: black;
-    float: left; }
+  .leftbox .left {
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    float: left;
+    margin: -15px 0 0 20px; }
+  .leftbox .middle {
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    float: left;
+    margin: -15px 0 0 20px; }
+  .leftbox .right {
+    width: 50px;
+    height: 50px;
+    background-color: none;
+    float: left;
+    margin: -15px 0 0 20px; }

@@ -59,24 +59,47 @@ body {
     color: black;
   }
 
-  .sixteen {
-    width: 100px;
-    height: 100px;
-    background-color: black;
+
+ @mixin margie {
+  margin: -15px 0 0 20px;
+  color: blue;
+ }
+  .left {
+    width: 50px;
+    height: 50px;
+    background-color: none;
     float: left;
+    @include margie;
   }
 
-  .nineteen {
-    width: 100px;
-    height: 100px;
-    background-color: black;
+  .middle {
+    width: 50px;
+    height: 50px;
+    background-color: none;
     float: left;
+    @include margie;
   }
 
-  .eight {
-    width: 100px;
-    height: 100px;
-    background-color: black;
+  .right {
+    width: 50px;
+    height: 50px;
+    background-color: none;
     float: left;
+    @include margie;
   }
+
+  .leftnumber {
+  }
+
+  .middlenumber {
+    @include margie;
+
+  }
+
+  .rightnumber {
+    @include margie;
+
+  }
+
+
 }
