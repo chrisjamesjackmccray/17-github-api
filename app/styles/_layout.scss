@@ -62,7 +62,6 @@ body {
 
  @mixin margie {
   margin: -15px 0 0 20px;
-  color: blue;
  }
   .left {
     width: 50px;
@@ -88,18 +87,32 @@ body {
     @include margie;
   }
 
-  .leftnumber {
+}
+
+
+.rightmain {
+  width: 774px;
+  height: 550px;
+  float: right;
+  margin: 20px 0 0 0;
+  background-color: black;
+
+
+ .topmain {
+   width: 774px;
+   height: 50px;
+   float: right;
+   background-color: lightgray;
+ }
+
+  .topmainunder {
+    width: 774px;
+    height: 50px;
+    float: right;
+    background-color: red;
+
   }
 
-  .middlenumber {
-    @include margie;
-
-  }
-
-  .rightnumber {
-    @include margie;
-
-  }
 
 
 }
