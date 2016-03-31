@@ -80,6 +80,19 @@ body {
 .topleft {
   margin: 40px 0 0 0; }
 
+.upperp {
+  margin: -20px 0 0 550px; }
+
+.upperptwo {
+  margin: -18px 0 0 650px; }
+
+.upperpthree {
+  margin: -18px 0 0 710px; }
+
+.fa fa-modx {
+  position: absolute;
+  left: 200px; }
+
 body {
   margin: 0 0 0 0; }
 
@@ -161,3 +174,16 @@ body {
 
 .topleft {
   margin: 40px 0 0 0; }
+
+.upperp {
+  margin: -20px 0 0 550px; }
+
+.upperptwo {
+  margin: -18px 0 0 650px; }
+
+.upperpthree {
+  margin: -18px 0 0 710px; }
+
+.fa fa-modx {
+  position: absolute;
+  left: 200px; }
