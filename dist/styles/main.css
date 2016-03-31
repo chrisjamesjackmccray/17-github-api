@@ -5,6 +5,8 @@ body {
   width: 1440px;
   height: 50px;
   background-color: lightgray; }
+  .head .headsearch {
+    margin: 0 0 0 400px; }
 
 .main {
   width: 1025px;
@@ -65,15 +67,18 @@ body {
   margin: 20px 0 0 0;
   background-color: black; }
   .rightmain .topmain {
-    width: 774px;
-    height: 50px;
+    width: 750px;
+    height: 30px;
     float: right;
     background-color: lightgray; }
   .rightmain .topmainunder {
-    width: 774px;
+    width: 750px;
     height: 50px;
     float: right;
     background-color: red; }
+
+.topleft {
+  margin: 40px 0 0 0; }
 
 body {
   margin: 0 0 0 0; }
@@ -82,6 +87,8 @@ body {
   width: 1440px;
   height: 50px;
   background-color: lightgray; }
+  .head .headsearch {
+    margin: 0 0 0 400px; }
 
 .main {
   width: 1025px;
@@ -142,12 +149,15 @@ body {
   margin: 20px 0 0 0;
   background-color: black; }
   .rightmain .topmain {
-    width: 774px;
-    height: 50px;
+    width: 750px;
+    height: 30px;
     float: right;
     background-color: lightgray; }
   .rightmain .topmainunder {
-    width: 774px;
+    width: 750px;
     height: 50px;
     float: right;
     background-color: red; }
+
+.topleft {
+  margin: 40px 0 0 0; }
