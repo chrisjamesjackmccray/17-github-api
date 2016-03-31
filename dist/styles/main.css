@@ -35,6 +35,25 @@ body {
     color: black; }
   .leftbox .two {
     color: black; }
+  .leftbox .three {
+    color: black; }
+  .leftbox .four {
+    color: black; }
+  .leftbox .sixteen {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left; }
+  .leftbox .nineteen {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left; }
+  .leftbox .eight {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left; }
 
 body {
   margin: 0 0 0 0; }
@@ -73,3 +92,22 @@ body {
     color: black; }
   .leftbox .two {
     color: black; }
+  .leftbox .three {
+    color: black; }
+  .leftbox .four {
+    color: black; }
+  .leftbox .sixteen {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left; }
+  .leftbox .nineteen {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left; }
+  .leftbox .eight {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    float: left; }
