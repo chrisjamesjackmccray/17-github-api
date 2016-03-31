@@ -111,6 +111,10 @@ hr {
   position: absolute;
   left: 210px; }
 
+#lowerdiv {
+  width: 774px;
+  height: 700px; }
+
 body {
   margin: 0 0 0 0; }
 
@@ -223,3 +227,7 @@ hr {
   float: left;
   position: absolute;
   left: 210px; }
+
+#lowerdiv {
+  width: 774px;
+  height: 700px; }
