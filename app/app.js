@@ -26,13 +26,15 @@ fetch('https://api.github.com/users/jbarket')
 
 
 
-
-
-
   fetch('https://api.github.com/users/jbarket/repos')
   .then((response) => {
    return response.json();
 })
+
+
+
+
+
 
 .then((response) => {
   console.log(response);
