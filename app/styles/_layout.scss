@@ -121,7 +121,7 @@ hr {
 
 
 .con {
-  width: 100px;
+  width: 140px;
   height: 30px;
   background-color: none;
   float: left;
@@ -129,7 +129,7 @@ hr {
 }
 
 .rep {
-  width: 100px;
+  width: 140px;
   height: 30px;
   background-color: none;
   float: left;
@@ -140,7 +140,7 @@ hr {
 }
 
 .pub {
-  width: 100px;
+  width: 400px;
   height: 30px;
   background-color: none;
   float: left;
@@ -153,10 +153,11 @@ hr {
 }
 
 .prep {
-  margin: 10px 0 0 0;
+  margin: -10px 0 0 0;
   text-align: center;
 }
 
 .ppub {
-  
+  margin: -10px 0 0 25px;
+
 }
