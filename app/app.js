@@ -12,6 +12,7 @@ fetch('https://api.github.com/users/jbarket')
     document.querySelector("#avatar").src = response.avatar_url;
     document.querySelector("#name").textContent = response.name;
     document.querySelector("#username").textContent = response.login;
+    document.querySelector("#company").textContent = response.company;
     document.querySelector("#location").textContent = response.location;
     document.querySelector("#email").textContent = response.email;
 
