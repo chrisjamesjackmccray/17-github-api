@@ -22,7 +22,7 @@ body {
 
 #repos {
   float: right;
-  margin: 0 900px 0 0;
+  margin: 0 450px 0 0;
 
 }
 
@@ -41,10 +41,27 @@ body {
 .search {
   width: 200px;
   height: 20px;
-  margin: 7px 0 0 300px;
+  margin: 7px 0 0 210px;
 }
 
 .main {
   width: 1025;
   margin: 0 auto;
+}
+
+.center {
+  width: 1025px;
+  margin: 0 auto;
+}
+
+hr {
+  width: 200px;
+  margin: 0 400px 0 0;
+}
+
+.rightbox {
+  float: right;
+  position: absolute;
+  top: 200px;
+  right: 200px;
 }
