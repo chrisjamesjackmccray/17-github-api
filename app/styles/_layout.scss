@@ -21,8 +21,9 @@ body {
 }
 
 #repos {
+  width: 700px;
   float: right;
-  margin: 0 450px 0 0;
+  margin: 0 0 0 0;
 
 }
 
@@ -31,17 +32,21 @@ body {
   height: 0px;
 }
 
+#location {
+  margin: 0;
+}
+
 .head {
   width: 100%;
   height: 40px;
-  background-color: lightgray;
+  background-color: #F5F5F5;
 
 }
 
 .search {
-  width: 200px;
+  width: 400px;
   height: 20px;
-  margin: 7px 0 0 210px;
+  margin: 7px 0 0 0;
 }
 
 .main {
@@ -64,4 +69,25 @@ hr {
   position: absolute;
   top: 200px;
   right: 200px;
+}
+
+.leftbox {
+  float: left;
+}
+
+
+.icon {
+  width: 30px;
+  float: left;
+  margin: 10px 0 0 210px;
+}
+
+.pull {
+  float: right;
+  margin: 10px 700px 0 0;
+}
+
+.issues {
+  float: right;
+  margin: -18px 640px 0 0;
 }
