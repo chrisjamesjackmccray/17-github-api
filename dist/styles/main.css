@@ -67,9 +67,49 @@ hr {
   float: right;
   margin: 10px 700px 0 0; }
 
+.pull:hover {
+  color: blue; }
+
 .issues {
   float: right;
   margin: -18px 640px 0 0; }
+
+.issues:hover {
+  color: blue; }
+
+.gist {
+  float: right;
+  margin: -18px 590px 0 0; }
+
+.gist:hover {
+  color: blue; }
+
+.topbox {
+  width: 700px;
+  height: 200px;
+  float: right;
+  margin: 20px;
+  background-color: black;
+  position: absolute;
+  right: 180px; }
+
+.con {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  float: left; }
+
+.rep {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  float: left; }
+
+.pub {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  float: left; }
 
 body {
   margin: 0; }
@@ -140,6 +180,46 @@ hr {
   float: right;
   margin: 10px 700px 0 0; }
 
+.pull:hover {
+  color: blue; }
+
 .issues {
   float: right;
   margin: -18px 640px 0 0; }
+
+.issues:hover {
+  color: blue; }
+
+.gist {
+  float: right;
+  margin: -18px 590px 0 0; }
+
+.gist:hover {
+  color: blue; }
+
+.topbox {
+  width: 700px;
+  height: 200px;
+  float: right;
+  margin: 20px;
+  background-color: black;
+  position: absolute;
+  right: 180px; }
+
+.con {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  float: left; }
+
+.rep {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  float: left; }
+
+.pub {
+  width: 100px;
+  height: 40px;
+  background-color: blue;
+  float: left; }
